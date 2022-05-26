@@ -32,6 +32,7 @@
 <br />
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikaroo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
