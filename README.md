@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer
 
-- 👀 I’m interested in Computer Gaming,Coding and learn new thinks.
+- 👀 I’m interested in Computer Gaming,Coding and learn new things.
 - 🌱 I’m currently learning React
 - 📫 How to reach me fuadbayramv@gmail.com
 - ⚡ Fun fact: I love to draw and workout
