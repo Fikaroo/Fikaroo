@@ -7,14 +7,6 @@
 - 📫 How to reach me fuadbayramv@gmail.com
 - ⚡ Fun fact: I love to draw and workout
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fuadbayramv#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fuadbayramv#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/fuadbayramv#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/fuadbayramv#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
