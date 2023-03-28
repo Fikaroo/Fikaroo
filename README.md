@@ -26,6 +26,9 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikaroo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![status](https://badge.stateful.com/Fikaroo/status.svg)](Status for @Fikaroo)
+[![status](https://badge.stateful.com/Fikaroo/dnd.svg)](DnD for @Fikaroo)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
